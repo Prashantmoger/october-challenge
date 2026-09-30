@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<rect x="8" y="8" width="496" height="496" rx="112" fill="#1f2937"/>
+<g transform="translate(256 262) scale(.9) translate(-256 -262)"><rect x="84" y="92" width="344" height="364" rx="44" fill="#fbfaf7" stroke="#1f2937" stroke-width="10"/>
+<path d="M84 136 v-0 q0 -44 44 -44 h256 q44 0 44 44 v20 h-344z" fill="#e8505b"/>
+<rect x="84" y="92" width="344" height="364" rx="44" fill="none" stroke="#1f2937" stroke-width="10"/>
+<line x1="84" y1="156" x2="428" y2="156" stroke="#1f2937" stroke-width="8"/>
+<text x="256" y="144" text-anchor="middle" font-family="Lil" font-size="50" fill="#fff" letter-spacing="3">OCT</text>
+<rect x="118" y="176" width="72" height="72" rx="16" fill="#ff8a1f" stroke="#1f2937" stroke-width="7"/>
+<path d="M134 213 l17 17 l30 -33" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="212" y="196" width="182" height="32" rx="16" fill="#ff8a1f" opacity=".9"/><rect x="118" y="268" width="72" height="72" rx="16" fill="#3d7be0" stroke="#1f2937" stroke-width="7"/>
+<path d="M134 305 l17 17 l30 -33" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="212" y="288" width="148" height="32" rx="16" fill="#3d7be0" opacity=".9"/><rect x="118" y="360" width="72" height="72" rx="16" fill="#22a06b" stroke="#1f2937" stroke-width="7"/>
+<path d="M134 397 l17 17 l30 -33" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="212" y="380" width="114" height="32" rx="16" fill="#22a06b" opacity=".9"/>
+<g transform="translate(412 104) rotate(12)"><path d="M0 -58 L16 -18 L58 -16 L25 10 L37 52 L0 28 L-37 52 L-25 10 L-58 -16 L-16 -18Z" fill="#ffd23f" stroke="#1f2937" stroke-width="8" stroke-linejoin="round"/></g></g></svg>
